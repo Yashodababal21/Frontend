@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import all_product from "../Components/assets/all_product"
+import all_product from "../Components/Assets/all_product"
 import { ShopContext } from '../Context/ShopContext'
 import {useParams} from "react-router-dom"
 import Productdisplay from '../Components/ProductDisplay/Productdisplay'
